@@ -2,9 +2,11 @@
 
 This is a simple password generator built with HTML, CSS, and JavaScript. It includes options for generating passwords with uppercase letters, numbers, and symbols. It also includes options to exclude duplicates and include spaces.
 
+![Screenshot](Password.png)
+
 ## Demo
 
-You can see a live demo of this project [here].
+You can see a live demo of this project [here](https://karthik-beta.github.io/Password-Generator/).
 
 
 
