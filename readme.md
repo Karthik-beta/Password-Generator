@@ -17,7 +17,7 @@ To use this password generator, simply download or clone the repository and open
 
 To clone this repository, run the following command:
 
-git clone : `https://github.com/yourusername/password-generator.git`
+git clone : `https://github.com/Karthik-beta/password-generator.git`
 
 
 ## How to Use
